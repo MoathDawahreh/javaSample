@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class Main<name> {
     public static void main(String[] args) {
-
+// test
         Ford ford1 = new Ford();
         ford1.carInfo();
         ford1.setColor("Yellow");
